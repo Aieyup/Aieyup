@@ -80,6 +80,14 @@ Tera, platform üzerindeki sıkça sorulan soruları (SSS) yanıtlayan sanal bir
 
 ## 📊 GitHub İstatistikleri
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 [![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Aieyup&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Aieyup)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aieyup&theme=date_night&hide_border=false)](https://git.io/streak-stats)
 [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Aieyup&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Aieyup)
@@ -100,4 +108,8 @@ Tera, platform üzerindeki sıkça sorulan soruları (SSS) yanıtlayan sanal bir
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Aieyup&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
 
