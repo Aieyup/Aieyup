@@ -17,14 +17,25 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          github_user_name: Aieyup  # GitHub kullanıcı adınız
+          node-version: '16'
+
+      - name: Install canvas dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Aieyup
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
             dist/github-contribution-grid-snake.svg
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
