@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/Aieyup" width="150px" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/Aieyup"/>
 </div>
 
 <h1 align="center">Eyyüp Toprak</h1>
@@ -14,12 +14,11 @@
 
 <div align="center">
   <a href="mailto:eyup.tp@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Hotmail-EA4335?style=for-the-badge&logo=hotmail&logoColor=white" alt="Hotmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/your_linkedin_profile" target="_blank">
+  <a href="[https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/eyy%C3%BCp-toprak-2a32b5292/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- İsteğe bağlı olarak diğer iletişim veya sosyal medya linklerini ekleyebilirsiniz -->
 </div>
 
 <br/>
@@ -85,16 +84,15 @@ Tera, platform üzerindeki sıkça sorulan soruları (SSS) yanıtlayan sanal bir
 [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Aieyup&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Aieyup)
 
 <br/>
+## 🔝 En Çok Katkıda Bulunduğum Repolar
+
+[![En Çok Katkıda Bulunulan Repolar](https://github-contributor-stats.vercel.app/api?username=Aieyup&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Aieyup)
+
+<br/>
 
 ## ✍️ 
 
 [![Geliştirici Sözü](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Aieyup)
-
-<br/>
-
-## 🔝 En Çok Katkıda Bulunduğum Repolar
-
-[![En Çok Katkıda Bulunulan Repolar](https://github-contributor-stats.vercel.app/api?username=Aieyup&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Aieyup)
 
 <br/>
 
