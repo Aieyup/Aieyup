@@ -84,7 +84,7 @@ Tera, platform üzerindeki sıkça sorulan soruları (SSS) yanıtlayan sanal bir
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/blank.svg" alt="Snake animation" />
 
 ###
 
