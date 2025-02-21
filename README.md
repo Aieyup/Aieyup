@@ -80,17 +80,27 @@ Tera, platform üzerindeki sıkça sorulan soruları (SSS) yanıtlayan sanal bir
 
 ## 📊 GitHub İstatistikleri
 
-###
+<div align="center">
+  <h3>🤖 AI & Aktivite Görselleştirmesi</h3>
+    
+  <!-- Snake Animasyonu -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aieyup/Aieyup/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aieyup/Aieyup/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Aieyup/Aieyup/output/github-snake.svg" />
+  </picture>
+  
+  <!-- Giphy AI Animasyonu -->
+  <img src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400" style="margin: 10px;">
+</div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/blank.svg" alt="Snake animation" />
-
-###
-
-[![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Aieyup&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Aieyup)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aieyup&theme=date_night&hide_border=false)](https://git.io/streak-stats)
-[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Aieyup&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Aieyup)
+<div align="center">
+  <h3>📈 GitHub Metrikleri</h3>
+  
+  [![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Aieyup&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Aieyup)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aieyup&theme=date_night&hide_border=false)](https://git.io/streak-stats)
+  [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Aieyup&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Aieyup)
+</div>
 
 <br/>
 ## 🔝 En Çok Katkıda Bulunduğum Repolar
