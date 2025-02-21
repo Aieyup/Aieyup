@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/Aieyup"/>
+  <img src="https://avatars.githubusercontent.com/Aieyup"width="1200px" style="border-radius: 50%;"/>
 </div>
+
 
 <h1 align="center">Eyyüp Toprak</h1>
 <h3 align="center">AI Engineering | Data Science | Software Engineering</h3>
@@ -16,7 +17,7 @@
   <a href="mailto:eyup.tp@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D7?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
-  <a href="[https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/eyy%C3%BCp-toprak-2a32b5292/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/eyyüp-toprak-2a32b5292](https://www.linkedin.com/in/eyy%C3%BCp-toprak-2a32b5292/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
