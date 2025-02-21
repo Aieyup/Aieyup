@@ -81,13 +81,13 @@ Tera, platform üzerindeki sıkça sorulan soruları (SSS) yanıtlayan sanal bir
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-  <h3>🤖 AI & Aktivite Görselleştirmesi</h3>
+  <h3>🤖</h3>
     
   <!-- Snake Animasyonu -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aieyup/Aieyup/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aieyup/Aieyup/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Aieyup/Aieyup/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aieyup/Aieyup/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aieyup/Aieyup/output/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Aieyup/Aieyup/output/dist/github-contribution-grid-snake.svg" />
   </picture>
   
   <!-- Giphy AI Animasyonu -->
@@ -118,8 +118,3 @@ Tera, platform üzerindeki sıkça sorulan soruları (SSS) yanıtlayan sanal bir
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Aieyup&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
