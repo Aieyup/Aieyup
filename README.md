@@ -7,14 +7,14 @@
 <h3 align="center">AI Engineering | Data Science | Software Engineering</h3>
 
 <p align="center">
-  Yapay zeka, yazılım mühendisliği ve veri bilimi alanlarında tutkulu, sürekli öğrenmeye ve yenilikçi çözümler geliştirmeye odaklanmış bir profesyonel. Derin öğrenme, doğal dil işleme ve optimizasyon tekniklerindeki uzmanlığımı, gerçek dünya problemlerine uygulanabilir çözümler üretmek için kullanıyorum. Etik değerlere ve disiplinler arası yaklaşımlara önem vererek, teknolojinin sınırlarını zorlamayı hedefliyorum.
+  Yapay zeka, yazılım mühendisliği ve veri bilimi alanlarında çalışan, sürekli öğrenmeye ve yenilikçi çözümler geliştirmeye odaklanmış bir Yapay zeka mühendisi adayı. Derin öğrenme, doğal dil işleme ve optimizasyon tekniklerindeki bilgilerim ile gerçek dünya problemlerine uygulanabilir çözümler üretmek için çalışıyorum. Etik değerlere ve disiplinler arası yaklaşımlara önem vererek, Multisipliner yaklaşıma sahip bir mühendis olmayı hedefliyorum.
 </p>
 
 <br/>
 
 <div align="center">
   <a href="mailto:eyup.tp@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-EA4335?style=for-the-badge&logo=hotmail&logoColor=white" alt="Hotmail"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D7?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
   <a href="[https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/eyy%C3%BCp-toprak-2a32b5292/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,7 +25,7 @@
 
 ## 🚀 Hakkımda
 
-Ben, yapay zeka mühendisliği ve veri bilimi alanlarında uzmanlaşmış, sürekli öğrenen ve kendini geliştiren bir mühendisim. Şu anda **Solvera** bünyesinde **Yapay Zeka Mühendisi ve Proje Yöneticisi** olarak görev yapmaktayım. Kariyerimde, bilimsel temellere dayalı yenilikçi projeler geliştirmeye ve karmaşık sorunlara yaratıcı çözümler üretmeye odaklandım.
+Ben, yapay zeka mühendisliği ve veri bilimi alanlarında uzmanlaşmış, sürekli öğrenen ve kendini geliştirmek için çalışan bir Yapay zaka mühendisi adayıyım. Şu anda **Solvera Yazılım A.Ş.** bünyesinde **Yapay Zeka Mühendisi ve Yapay zeka Projeleri yöneticisi** olarak görev yapmaktayım. Kariyerimde, bilimsel temellere dayalı yenilikçi projeler geliştirmeye ve karmaşık sorunlara yaratıcı çözümler üretmeye odaklandım.
 
 **Uzmanlık Alanlarım:**
 
@@ -42,7 +42,7 @@ Meraklı, disiplinler arası ve etik değerlere önem veren bir mühendis olarak
 
 <br/>
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Kullandığın Teknolojiler
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,7 +68,7 @@ Meraklı, disiplinler arası ve etik değerlere önem veren bir mühendis olarak
 
 **Tera Sanal Sohbet Robotu**
 
-[<img src="https://raw.githubusercontent.com/Aieyup/Aieyup/main/tera_logo.png" width="100" align="right" style="margin-left: 10px; margin-bottom: 10px;" />](https://www.solvera.com.tr/tr/tera-u-9)
+[<img src="https://raw.githubusercontent.com/Aieyup/Aieyup/main/TeraLogo.png" width="100" align="right" style="margin-left: 10px; margin-bottom: 10px;" />](https://www.solvera.com.tr/tr/tera-u-9)
 
 Tera, platform üzerindeki sıkça sorulan soruları (SSS) yanıtlayan sanal bir sohbet robotudur. Kullanıcı deneyimini iyileştirmek ve bilgiye hızlı erişimi sağlamak amacıyla geliştirilmiştir.
 
