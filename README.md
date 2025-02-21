@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/Aieyup"width="1200px" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/Aieyup"width="120px" style="border-radius: 50%;"/>
 </div>
 
 
