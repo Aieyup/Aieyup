@@ -81,15 +81,7 @@ Tera, platform üzerindeki sıkça sorulan soruları (SSS) yanıtlayan sanal bir
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-  <h3>🤖</h3>
-    
-  <!-- Snake Animasyonu -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aieyup/Aieyup/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aieyup/Aieyup/output/dist/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Aieyup/Aieyup/output/dist/github-contribution-grid-snake.svg" />
-  </picture>
-  
+  <h3>🤖</h3>      
   <!-- Giphy AI Animasyonu -->
   <img src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400" style="margin: 10px;">
 </div>
