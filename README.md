@@ -209,7 +209,11 @@ Tera is a virtual chatbot that answers frequently asked questions (FAQ) on the p
 
 **[Project Link](https://www.solvera.com.tr/tr/tera-u-9)**
 
+**REPTO**
+[<img src="https://raw.githubusercontent.com/Aieyup/Aieyup/main/ReptoLogo.png" width="100" align="right" style="margin-left: 10px; margin-bottom: 10px;" />](https://www.solvera.com.tr/en/repto-u-11)
 
+Repto is a smart reporting solution that works integrated with various digital platforms, learns the data structure and database structure, and optimizes business processes by producing AGENT-based automatic and dynamic reports.
+**[Project Linki](https://www.solvera.com.tr/repto-u-11)**
 <br/>
 
 ## 📊 GitHub Statistics
