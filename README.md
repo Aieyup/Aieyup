@@ -86,7 +86,11 @@ Tera, platform üzerindeki sıkça sorulan soruları (SSS) yanıtlayan sanal bir
 
 **[Proje Linki](https://www.solvera.com.tr/tr/tera-u-9)**
 
+**REPTO**
+[<img src="https://raw.githubusercontent.com/Aieyup/Aieyup/main/ReptoLogo.png" width="100" align="right" style="margin-left: 10px; margin-bottom: 10px;" />](https://www.solvera.com.tr/en/repto-u-11)
+Repto, çeşitli dijital platformlarla entegre çalışarak veri yapısını ve veritabanı yapısını öğrenen, AGENT tabanlı otomatik ve dinamik raporlar üreterek iş süreçlerini optimize eden akıllı bir raporlama çözümüdür.
 
+**[Proje Linki](https://www.solvera.com.tr/repto-u-11)**
 <br/>
 
 ## 📊 GitHub İstatistikleri
