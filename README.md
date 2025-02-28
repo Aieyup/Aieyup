@@ -203,7 +203,7 @@ As a curious, interdisciplinary engineer who values ethical principles, I aim to
 
 **Tera Virtual Chat Bot**
 
-[<img src="https://raw.githubusercontent.com/Aieyup/Aieyup/main/TeraLogo.png" width="100" align="right" style="margin-left: 10px; margin-bottom: 10px;" />](https://www.solvera.com.tr/tr/tera-u-9)
+[<img src="https://raw.githubusercontent.com/Aieyup/Aieyup/main/TeraLogo.png" width="100" align="right" style="margin-left: 10px; margin-bottom: 10px;" />](https://www.solvera.com.tr/en/tera-u-9)
 
 Tera is a virtual chatbot that answers frequently asked questions (FAQ) on the platform. It was developed to improve user experience and provide quick access to information.
 
