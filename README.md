@@ -93,13 +93,14 @@ Repto, çeşitli dijital platformlarla entegre çalışarak veri yapısını ve 
 **[Proje Linki](https://www.solvera.com.tr/repto-u-11)**
 <br/>
 
-## 📊 GitHub İstatistikleri
-
 <div align="center">
   <h3>🤖</h3>   
   <!-- Giphy AI Animasyonu -->
   <img src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400" style="margin: 10px;">
 </div>
+
+
+## 📊 GitHub İstatistikleri
 
 <div align="center">
   <h3>📈 GitHub Metrikleri</h3>
@@ -216,17 +217,13 @@ Repto is a smart reporting solution that works integrated with various digital p
 
 **[Project Link](https://www.solvera.com.tr/en/repto-u-11)**
 <br/>
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  <h3>🤖</h3>
-    
-  <!-- Snake Animation -->
-
+  <h3>🤖</h3> 
   <!-- Giphy AI Animation -->
   <img src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400" style="margin: 10px;">
 </div>
+
+## 📊 GitHub Statistics
 
 <div align="center">
   <h3>📈 GitHub Metrics</h3>
