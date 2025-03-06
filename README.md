@@ -241,7 +241,7 @@ Repto is a smart reporting solution that works integrated with various digital p
 
 <br/>
 
-## ✍️ Random Dev Quote
+## ✍️ 
 
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Aieyup)
 
